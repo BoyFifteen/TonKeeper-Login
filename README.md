@@ -6,4 +6,4 @@
 
 - Mobile App API
 
-- TeleGram Channel : https://t.me/WhisperVIP
+- TeleGram Channel : https:https://t.me/BoyFifteen
