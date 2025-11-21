@@ -2,7 +2,7 @@
 
 - TonKeeper Login Using Seed Phrase :
 
-- Show Balance
+- Show Balance 
  
 - Mobile App API 
 
