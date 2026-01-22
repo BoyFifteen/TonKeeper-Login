@@ -6,5 +6,5 @@
  
 - Mobile App API 
 
-- TeleGram Channel : https:https://t.me/BoyFten
+- TeleGram : https:https://t.me/WHI3PER
  
