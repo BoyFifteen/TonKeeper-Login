@@ -7,4 +7,3 @@
 - Mobile App API 
 
 - TeleGram : https:https://t.me/WHI3PER
- 
